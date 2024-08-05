@@ -1,0 +1,6 @@
+@CursoAPI_GitHub_HostAddress = http://localhost:5043
+
+GET {{CursoAPI_GitHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
